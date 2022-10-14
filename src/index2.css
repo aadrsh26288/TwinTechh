@@ -1,0 +1,12 @@
+.underBorder{
+  background: transparent;
+  border-bottom: 1px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+input::placeholder {
+  color: rgb(39, 37, 37) !important;
+  opacity: 1;
+}
